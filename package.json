@@ -1,0 +1,20 @@
+{
+  "name": "markdown-to-wordpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "fast-xml-parser": "^5.2.0",
+    "gray-matter": "^4.0.2",
+    "marked": "^15.0.7",
+    "slugify": "^1.5.0",
+    "xmldom": "^0.6.0"
+  }
+}
