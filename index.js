@@ -15,7 +15,7 @@ program
   )
   .option(
     "-o, --output <file>",
-    "file to put Wordpress XML. Defaults to wordpress-import.xml"
+    "file to put WordPress XML. Defaults to wordpress-import.xml"
   );
 
 program.parse(process.argv);
