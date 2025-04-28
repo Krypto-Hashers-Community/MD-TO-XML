@@ -1,9 +1,9 @@
-# Markdown to Wordpress XML
+# Markdown to WordPress XML
 
 Convert a folder of markdown files (in Jekyll/hexo/eleventy style) to a
-Wordpress XML import file.
+WordPress XML import file.
 
-This should produce a valid XML file that you can import into Wordpress using
+This should produce a valid XML file that you can import into WordPress using
 the importer in Tools 👉 Import 👉 Wordpress.
 
 Good luck!
